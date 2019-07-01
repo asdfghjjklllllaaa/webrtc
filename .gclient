@@ -1,6 +1,6 @@
 solutions = [
   {
-    "url": "https://webrtc.googlesource.com/src.git",
+    "url": "https://github.com/asdfghjjklllllaaa/src.git",
     "managed": False,
     "name": "src",
     "deps_file": "DEPS",
